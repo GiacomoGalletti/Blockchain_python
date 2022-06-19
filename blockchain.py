@@ -1,5 +1,3 @@
-# Modulo 1 Creazione della Blockchain
-
 import datetime
 import hashlib
 import json
